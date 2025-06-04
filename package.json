@@ -2,7 +2,7 @@
   "name": "newportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thiago-diegoli.io/fatec-portfolio",
+  "homepage": "https://thiago-diegoli.github.io/fatec-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
