@@ -71,13 +71,13 @@ const Contact = () => {
         <div className="w-full lgl:w-1/2">
           <p className="flex gap-6 justify-between w-full text-lg text-[#ccc] py-4 border-b-[1px] border-b-zinc-800">
             <span className="bg-designColor text-black text-sm font-titleFont font-semibold px-2 rounded-md flex items-center justify-center">
-              Address:
+              Endereço:
             </span>
             Sorocaba, SP
           </p>
           <p className="flex justify-between w-full text-lg text-[#ccc] py-4 border-b-[1px] border-b-zinc-800">
             <span className="bg-designColor text-black text-sm font-titleFont font-semibold px-2 rounded-md flex items-center justify-center">
-              Phone:
+              Telefone:
             </span>
             +55 15 99658-6354
           </p>
