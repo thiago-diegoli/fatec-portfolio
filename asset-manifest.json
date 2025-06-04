@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/fatec-portfolio/static/css/main.272e81fe.css",
+    "main.js": "/fatec-portfolio/static/js/main.d9dccce4.js",
+    "static/media/workImgTwo.png": "/fatec-portfolio/static/media/workImgTwo.7f02efac52834ea08135.png",
+    "static/media/workImgOne.png": "/fatec-portfolio/static/media/workImgOne.5548828b41cf36ffaf0c.png",
+    "static/media/bannerImg.png": "/fatec-portfolio/static/media/bannerImg.bca9a05d8200ead16311.png",
+    "static/media/Thiago_Saldanha_Diegoli_Portfolio.pdf": "/fatec-portfolio/static/media/Thiago_Saldanha_Diegoli_Portfolio.f16790d0f1f122407631.pdf",
+    "index.html": "/fatec-portfolio/index.html",
+    "main.272e81fe.css.map": "/fatec-portfolio/static/css/main.272e81fe.css.map",
+    "main.d9dccce4.js.map": "/fatec-portfolio/static/js/main.d9dccce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.272e81fe.css",
+    "static/js/main.d9dccce4.js"
+  ]
+}
